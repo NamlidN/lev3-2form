@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.up {
+
+    padding: 1rem 3rem;
+    background-color: black;
+}
+
+.up:hover {
+    background-color: greenyellow;
+}
+
+.log {
+
+    padding: 1rem 3rem;
+    background-color: green;
+}
+
+.log:hover {
+    background-color: greenyellow;
+}
+
+div {
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+
+}
+
+.divv {
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+input {
+    width: 15rem;
+    background-color: black;
+    color: white;
+    border: solid white;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    margin: 10rem auto;
+    align-items: center;
+    justify-content: center;
+
+}
+
+h1 {
+    color: white;
+}
+
+.forg {
+    align-self: flex-end;
+    font-size: small;
+    color: darkgreen;
+}
+
+.unlog {
+    background-color: green;
+    width: 100%;
+    text-align: center;
+    padding: 1rem;
+}
+/*================
+=========*/
+.upp {
+
+    padding: 1rem 3rem;
+    background-color: green;
+}
+
+.upp:hover {
+    background-color: greenyellow;
+}
+
+.logg {
+
+    padding: 1rem 3rem;
+    background-color: black;
+}
+
+.logg:hover {
+    background-color: greenyellow;
+}
+.name{
+    width: 29%;
+    margin-bottom: 1rem;
+}
+.divvv {
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+}
+.mainn {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    margin: 10rem auto;
+    align-items: center;
+    justify-content: center;
+    width: 20rem;
+}
+label{
+align-items: center;
+justify-content: center;
+margin: 5rem;
+}
+.unlogg {
+    background-color: green;
+    width:60%;
+    text-align: center;
+    padding: 1rem
+}
+.gett{
+    font-size: x-large;
+    font-weight: 100;
+}
